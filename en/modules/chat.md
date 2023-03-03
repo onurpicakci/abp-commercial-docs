@@ -19,6 +19,7 @@ Chat module is not installed in [the startup templates](../Startup-Templates/Ind
 #### 1. Using ABP Suite
 
 ABP Suite allows adding a module to a solution using ``Add to your solution`` option in modules list.
+
 ![suite-chat-add](../images/suite-chat-add.png)
 
 #### 2. Manual Installation
